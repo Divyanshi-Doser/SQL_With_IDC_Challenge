@@ -11,6 +11,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 ## 📅 Daily Progress
 - **Day 1:** Viewing and filtering data using `SELECT`, choosing specific columns, checking table structure, and getting unique values with `DISTINCT`
 - **Day 2:** Topics: WHERE clause, comparison operators, basic filtering.
+- **Day 3:** Topics: ORDER BY, ASC/DESC, multiple column sorting
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
