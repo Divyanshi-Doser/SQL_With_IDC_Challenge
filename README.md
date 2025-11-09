@@ -15,6 +15,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 - **Day 4:** Topics: LIMIT, OFFSET, pagination concepts
 - **Day 5:** Topics: Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - **Day 6:** Topics: GROUP BY, aggregating by categories
+- **Day 7:** Topics: HAVING clause, filtering aggregated results
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
