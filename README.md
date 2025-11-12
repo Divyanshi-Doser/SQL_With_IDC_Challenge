@@ -18,6 +18,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 - **Day 7:** Topics: HAVING clause, filtering aggregated results
 - **Day 8:** Topics: UPPER, LOWER, LENGTH, CONCAT, SUBSTRING
 - **Day 9:** Topics: DATE functions, date arithmetic, EXTRACT
+- **Day 10:** Topics: CASE WHEN, conditional logic, derived columns
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
