@@ -22,6 +22,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 - **Day 11:** Topics: DISTINCT, removing duplicates, unique values
 - **Day 12:** Topics: NULL handling, IS NULL, IS NOT NULL, COALESCE
 - **Day 13:** Topics: INNER JOIN, joining two tables, relationship understanding
+- **Day 14:** Topics: LEFT JOIN, RIGHT JOIN, including unmatched records
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
