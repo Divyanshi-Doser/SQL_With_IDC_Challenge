@@ -24,6 +24,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 - **Day 13:** Topics: INNER JOIN, joining two tables, relationship understanding
 - **Day 14:** Topics: LEFT JOIN, RIGHT JOIN, including unmatched records
 - **Day 15:** Topics: Joining more than two tables, complex relationships
+- **Day 16:** Topics: Subqueries in WHERE, nested queries, filtering with subqueries
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
