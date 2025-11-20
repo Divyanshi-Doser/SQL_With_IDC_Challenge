@@ -26,6 +26,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 - **Day 15:** Topics: Joining more than two tables, complex relationships
 - **Day 16:** Topics: Subqueries in WHERE, nested queries, filtering with subqueries
 - **Day 17:** Topics: Subqueries in SELECT, derived tables, inline views
+- **Day 18:** Topics: UNION, UNION ALL, combining result sets
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
