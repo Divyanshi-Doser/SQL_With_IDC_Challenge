@@ -27,6 +27,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 - **Day 16:** Topics: Subqueries in WHERE, nested queries, filtering with subqueries
 - **Day 17:** Topics: Subqueries in SELECT, derived tables, inline views
 - **Day 18:** Topics: UNION, UNION ALL, combining result sets
+- **Day 19:** Topics: ROW_NUMBER(), RANK(), DENSE_RANK(), OVER clause
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
