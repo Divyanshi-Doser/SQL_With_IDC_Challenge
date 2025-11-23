@@ -29,6 +29,7 @@ This repository contains my daily progress, queries, from the **21 Days SQL Chal
 - **Day 18:** Topics: UNION, UNION ALL, combining result sets
 - **Day 19:** Topics: ROW_NUMBER(), RANK(), DENSE_RANK(), OVER clause
 - **Day 20:** Topics: SUM() OVER, AVG() OVER, running totals, moving averages
+- **Day 21:** Topics: WITH clause, CTEs, recursive CTEs (if applicable), query organization
 - *(More days coming soon...)*
 
 #SQLWithIDC #DataAnalytics #LearnSQL
