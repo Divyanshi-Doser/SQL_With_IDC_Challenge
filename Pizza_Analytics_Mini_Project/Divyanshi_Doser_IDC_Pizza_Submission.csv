@@ -1,0 +1,17 @@
+﻿Name,Email,AnswerQuery
+Divyanshi Doser,divyanshidoser@gmail.com,SELECT DISTINCT category FROM pizza_types;
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT pizza_type_id, name, COALESCE(ingredients, ""Missing Data"") AS ingredients FROM pizza_types LIMIT 5;"
+Divyanshi Doser,divyanshidoser@gmail.com,SELECT * FROM pizzas WHERE price IS NULL;
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT * FROM orders WHERE date = ""2015-01-01"";"
+Divyanshi Doser,divyanshidoser@gmail.com,SELECT * FROM pizzas ORDER BY price DESC;
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT * FROM pizzas WHERE size IN(""L"",""XL"");"
+Divyanshi Doser,divyanshidoser@gmail.com,SELECT * FROM pizzas WHERE price BETWEEN 15 AND 17;
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT * FROM pizza_types WHERE name LIKE ""%Chicken%"";"
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT * FROM orders WHERE date = ""2015-02-15"" OR HOUR(time) > 20;"
+Divyanshi Doser,divyanshidoser@gmail.com,SELECT SUM(quantity) AS quantity_sold FROM order_details;
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT ROUND(AVG(price),2) AS avg_pizza_price FROM pizzas;"
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT o.order_id, SUM(od.quantity*p.price) AS order_value FROM orders AS o JOIN order_details AS od ON o.order_id = od.order_id JOIN pizzas AS p ON od.pizza_id = p.pizza_id GROUP BY o.order_id;"
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT pt.category, SUM(od.quantity) AS total_quantity_sold FROM order_details AS od JOIN pizzas AS p ON od.pizza_id = p.pizza_id JOIN pizza_types AS pt ON p.pizza_type_id = pt.pizza_type_id GROUP BY pt.category;"
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT pt.category, SUM(od.quantity) AS total_quantity_sold FROM order_details AS od JOIN pizzas AS p ON od.pizza_id = p.pizza_id JOIN pizza_types AS pt ON p.pizza_type_id = pt.pizza_type_id GROUP BY pt.category HAVING total_quantity_sold > 5000;"
+Divyanshi Doser,divyanshidoser@gmail.com,SELECT p.* FROM pizzas AS p LEFT JOIN order_details AS od ON p.pizza_id = od.pizza_id WHERE od.order_id IS NULL;
+Divyanshi Doser,divyanshidoser@gmail.com,"SELECT a.pizza_type_id, a.size AS size1, b.size AS size2, (a.price-b.price) AS price_difference FROM pizzas AS a JOIN pizzas AS b ON a.pizza_type_id = b.pizza_type_id AND a.size <> b.size;"
