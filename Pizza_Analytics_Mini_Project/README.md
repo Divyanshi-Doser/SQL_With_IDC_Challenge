@@ -75,9 +75,7 @@ Original dataset files provided for analysis:
 
 ## 🚀 Tools Used
 
-- PostgreSQL  
-- pgAdmin  
-- SQL  
+- MySQL 
 - Git & GitHub  
 
 ---
