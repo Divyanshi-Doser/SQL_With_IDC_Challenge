@@ -21,8 +21,7 @@ All final SQL queries were submitted in the required **CSV format** (one query p
 ---
 
 ## 🧠 Key Learning Outcomes
-
-- Restoring databases using `.dump` files  
+  
 - Understanding relational schemas & table relationships  
 - Writing clean and efficient SQL queries  
 - Working with joins for multi-table analysis  
