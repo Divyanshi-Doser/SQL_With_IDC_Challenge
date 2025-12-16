@@ -30,6 +30,6 @@ This repository contains my daily progress, queries, Strike-Badges, Certificatio
 - **Day 19:** Topics: ROW_NUMBER(), RANK(), DENSE_RANK(), OVER clause
 - **Day 20:** Topics: SUM() OVER, AVG() OVER, running totals, moving averages
 - **Day 21:** Topics: WITH clause, CTEs, recursive CTEs (if applicable), query organization
-# Challenge Successfully Completed 
+## Challenge Successfully Completed 
 
 #SQLWithIDC #DataAnalytics #LearnSQL
