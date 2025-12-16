@@ -1,7 +1,7 @@
 # SQL_With_IDC_Challenge
 ## 21 Days SQL Challenge 💻
 
-This repository contains my daily progress, queries, from the **21 Days SQL Challenge** organized by Indian Data Club
+This repository contains my daily progress, queries, Strike-Badges, Certification of completion from the **21 Days SQL Challenge** organized by Indian Data Club
 
 ## 🔥 Goals
 - Stay consistent with SQL practice
